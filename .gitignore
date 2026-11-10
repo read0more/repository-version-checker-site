@@ -33,5 +33,4 @@ yarn-error.log*
 # vercel
 .vercel
 
-# apollo:codegen 생성 파일
-apollo/schemaTypes.ts
+.env*
